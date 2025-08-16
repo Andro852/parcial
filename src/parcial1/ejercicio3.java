@@ -10,10 +10,8 @@ public class ejercicio3 {
     public static void main(String[] args) {
         
         int i, cont100a300 = 0, contMas300 = 0;
-        double total = 0, sueldo = 0;  
-        
+        double total = 0, sueldo = 0;   
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Ingrese el numero de empleados: ");
         int n = sc.nextInt();
     
